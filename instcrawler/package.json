@@ -1,0 +1,17 @@
+{
+  "name": "instcrawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "crawler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon crawler.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gcloud": "^0.29.0",
+    "instagram-node": "^0.5.8",
+    "node-uuid": "^1.4.7"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "cognitive",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cognitive.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon cognitive.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gcloud": "^0.29.0",
+    "node-uuid": "^1.4.7",
+    "project-oxford": "^1.1.0"
+  }
+}
